@@ -31,8 +31,8 @@
   <project path="dalvik" name="CyanogenMod/android_dalvik" />
   <project path="development" name="CyanogenMod/android_development" />
   <project path="device/common" name="CyanogenMod/android_device_common" />
-  <project path="device/htc/dlx" name="CM10DNA/android_device_htc_dlx" />
-  <project path="device/htc/apq8064-common" name="CM10DNA/android_device_htc_apq8064-common" revision="cm-10.1-chad" />
+  <project path="device/htc/dlx" name="CM10DNA/android_device_htc_dlx" revision="cm-10.1-chad" />
+  <project path="device/htc/msm8960-common" name="CyanogenMod/android_device_htc_msm8960-common" />
   <project path="device/generic/armv7-a-neon" name="CyanogenMod/android_device_generic_armv7-a-neon" />
   <project path="device/generic/armv7-a" name="CyanogenMod/android_device_generic_armv7-a" />
   <project path="device/generic/common" name="CyanogenMod/android_device_generic_common" />
