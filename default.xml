@@ -298,7 +298,7 @@
   <project path="libnativehelper" name="CyanogenMod/android_libnativehelper" groups="pdk-java" />
   <project path="kernel/htc/dlx" name="crpalmer/dna-kernel" revision="3.x" />
   <project path="ndk" name="platform/ndk" remote="aosp" revision="refs/tags/android-4.3_r2.2" />
-  <project path="packages/apps/Apollo" name="CyanogenMod/android_packages_apps_Apollo" />
+  <!-- <project path="packages/apps/Apollo" name="CyanogenMod/android_packages_apps_Apollo" /> -->
   <project path="packages/apps/BasicSmsReceiver" name="CyanogenMod/android_packages_apps_BasicSmsReceiver" />
   <project path="packages/apps/Bluetooth" name="CyanogenMod/android_packages_apps_Bluetooth" />
   <project path="packages/apps/Browser" name="CyanogenMod/android_packages_apps_Browser" />
@@ -307,8 +307,8 @@
   <project path="packages/apps/Camera" name="CyanogenMod/android_packages_apps_Camera" />
   <project path="packages/apps/CellBroadcastReceiver" name="CyanogenMod/android_packages_apps_CellBroadcastReceiver" />
   <project path="packages/apps/CertInstaller" name="CyanogenMod/android_packages_apps_CertInstaller" />
-  <project path="packages/apps/CMFileManager" name="CyanogenMod/android_packages_apps_CMFileManager" />
-  <project path="packages/apps/CMUpdater" name="CyanogenMod/android_packages_apps_CMUpdater" />
+  <!-- <project path="packages/apps/CMFileManager" name="CyanogenMod/android_packages_apps_CMFileManager" /> -->
+  <!-- <project path="packages/apps/CMUpdater" name="CyanogenMod/android_packages_apps_CMUpdater" /> -->
   <project path="packages/apps/CMWallpapers" name="CyanogenMod/android_packages_apps_CMWallpapers" />
   <project path="packages/apps/Contacts" name="CyanogenMod/android_packages_apps_Contacts" />
   <project path="packages/apps/ContactsCommon" name="CyanogenMod/android_packages_apps_ContactsCommon" />
@@ -326,7 +326,7 @@
   <project path="packages/apps/LockClock" name="CyanogenMod/android_packages_apps_LockClock" />
   <project path="packages/apps/Mms" name="CyanogenMod/android_packages_apps_Mms" />
   <project path="packages/apps/MusicFX" name="CyanogenMod/android_packages_apps_MusicFX" />
-  <project path="packages/apps/Nfc" name="CyanogenMod/android_packages_apps_Nfc" />
+  <!-- <project path="packages/apps/Nfc" name="CyanogenMod/android_packages_apps_Nfc" /> -->
   <project path="packages/apps/OneTimeInitializer" name="CyanogenMod/android_packages_apps_OneTimeInitializer" />
   <project path="packages/apps/PackageInstaller" name="CyanogenMod/android_packages_apps_PackageInstaller" />
   <project path="packages/apps/Phone" name="CyanogenMod/android_packages_apps_Phone" />
